@@ -1,0 +1,43 @@
+---
+site_name: ExPECA Project
+theme: 
+  palette:
+    scheme: default
+    primary: indigo
+    accent: amber
+  logo: assets/kth_logo.png
+  name: material
+  font:
+    text: Ubuntu
+    code: JetBrains Mono
+  icon:
+    # logo: fontawesome/solid/server
+    repo: fontawesome/brands/github
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - toc.integrate
+repo_url: https://github.com/KTH-EXPECA/kth-expeca.github.io
+repo_name: KTH-EXPECA/kth-expeca.github.io
+copyright: Copyright &copy; 2020 - EXPECA Project Group at KTH Royal Institute of Technology
+markdown_extensions:
+  - def_list
+  - pymdownx.highlight:
+      linenums: yes
+      linenums_style: pymdownx-inline
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.superfences
+  - pymdownx.snippets
+  - toc:
+      permalink: 🔗
+plugins:
+  - awesome-pages
+  - git-revision-date-localized:
+      type: timeago
+      enable_creation_date: true
+...
