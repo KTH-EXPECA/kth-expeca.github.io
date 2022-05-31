@@ -1,9 +1,9 @@
 # Publications
 
-<script type="text/javascript" src="./js/citation-js.js"></script>
-<script type="text/javascript" src="./js/bibtex_js.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/citation-js@0.4.0-10"></script>
+<script type="text/javascript" src="https://cdn.rawgit.com/pcooksey/bibtex-js/master/src/bibtex_js.js"></script>
 
-<bibtex src="./assets/expeca_pubs.bib"></bibtex>
+<bibtex src="/assets/expeca_pubs.bib"></bibtex>
 <div class="bibtex_template">
 <li><span class="author"></span>.
 <span class="if year">
