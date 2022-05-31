@@ -13,6 +13,7 @@ theme:
   icon:
     # logo: fontawesome/solid/server
     repo: fontawesome/brands/github
+    admonition: {}
   features:
     - navigation.instant
     - navigation.tabs
@@ -38,7 +39,6 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.inlinehilite
   - pymdownx.keys
-  - pymdownx.superfences
   - pymdownx.snippets
   - toc:
       permalink: 🔗
