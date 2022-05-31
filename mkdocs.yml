@@ -1,5 +1,5 @@
 ---
-site_name: ExPECA Project
+site_name: Experimental Platform for Edge Computing Applications &#8212; ExPECA
 theme: 
   palette:
     scheme: default
@@ -25,6 +25,13 @@ repo_name: KTH-EXPECA/kth-expeca.github.io
 copyright: Copyright &copy; 2020 - EXPECA Project Group at KTH Royal Institute of Technology
 markdown_extensions:
   - def_list
+  - attr_list
+  - admonition
+  - pymdownx.details
+  - footnotes
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
   - pymdownx.highlight:
       linenums: yes
       linenums_style: pymdownx-inline
@@ -40,4 +47,5 @@ plugins:
   - git-revision-date-localized:
       type: timeago
       enable_creation_date: true
+      fallback_to_build_date: true
 ...
