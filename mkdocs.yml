@@ -1,5 +1,7 @@
 ---
 site_name: Experimental Platform for Edge Computing Applications &#8212; ExPECA
+extra_css:
+  - stylesheets/extra.css
 theme: 
   palette:
     scheme: default

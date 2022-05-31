@@ -1,14 +1,14 @@
 # Welcome
 
-!!! warning "This website is still under construction"
+!!! warning "Under construction"
 
-    **Please excuse the mess!**
+    This website is still under construction, please excuse the mess.
 
 ![header](./assets/welcome_header.png)
 
 ## The ExPECA Testbed
 
-!!! quote ""
+!!! info ""
 
     The Experimental Platform for Edge Computing Applications (ExPECA) is an SSF-funded infrastructure project targeting the development and provisioning of an edge computing infrastructure for research into novel applications and network architectures.
     It is owned and developed by [Professor James Gross'](https://jamesgross.org) group at the [division of Information Science and Engineering of the School of Electrical Engineering and Computer Science at KTH](https://www.kth.se/is/ise/division-of-information-science-and-engineering-1.790272).
