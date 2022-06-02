@@ -1,0 +1,38 @@
+:root {
+    --md-admonition-icon--member: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Pro 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M45.63 79.75L52 81.25v58.5C45 143.9 40 151.3 40 160c0 8.375 4.625 15.38 11.12 19.75L35.5 242C33.75 248.9 37.63 256 43.13 256h41.75c5.5 0 9.375-7.125 7.625-13.1L76.88 179.8C83.38 175.4 88 168.4 88 160c0-8.75-5-16.12-12-20.25V87.13L128 99.63l.001 60.37c0 70.75 57.25 128 128 128s127.1-57.25 127.1-128L384 99.62l82.25-19.87c18.25-4.375 18.25-27 0-31.5l-190.4-46c-13-3-26.62-3-39.63 0l-190.6 46C27.5 52.63 27.5 75.38 45.63 79.75zM359.2 312.8l-103.2 103.2l-103.2-103.2c-69.93 22.3-120.8 87.2-120.8 164.5C32 496.5 47.53 512 66.67 512h378.7C464.5 512 480 496.5 480 477.3C480 400 429.1 335.1 359.2 312.8z"/></svg>');
+    --md-admonition-icon--pi: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Pro 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M352 128C352 198.7 294.7 256 224 256C153.3 256 96 198.7 96 128C96 57.31 153.3 0 224 0C294.7 0 352 57.31 352 128zM209.1 359.2L176 304H272L238.9 359.2L272.2 483.1L311.7 321.9C388.9 333.9 448 400.7 448 481.3C448 498.2 434.2 512 417.3 512H30.72C13.75 512 0 498.2 0 481.3C0 400.7 59.09 333.9 136.3 321.9L175.8 483.1L209.1 359.2z"/></svg>')
+}
+
+.md-typeset .admonition.member,
+.md-typeset details.member {
+    border-color: rgb(143, 143, 143);
+}
+
+.md-typeset .member>.admonition-title,
+.md-typeset .member>summary {
+    background-color: rgb(0, 116, 136, 0.0);
+}
+
+.md-typeset .member>.admonition-title::before,
+.md-typeset .member>summary::before {
+    background-color: rgb(143, 143, 143);
+    -webkit-mask-image: var(--md-admonition-icon--member);
+    mask-image: var(--md-admonition-icon--member);
+}
+
+.md-typeset .admonition.pi,
+.md-typeset details.pi {
+    border-color: rgb(247, 165, 11);
+}
+
+.md-typeset .pi>.admonition-title,
+.md-typeset .pi>summary {
+    background-color: rgb(0, 116, 136, 0.0);
+}
+
+.md-typeset .pi>.admonition-title::before,
+.md-typeset .pi>summary::before {
+    background-color: rgb(247, 165, 11);
+    -webkit-mask-image: var(--md-admonition-icon--pi);
+    mask-image: var(--md-admonition-icon--pi);
+}
