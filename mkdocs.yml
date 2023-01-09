@@ -24,8 +24,6 @@ theme:
     - navigation.expand
     - navigation.top
     - toc.integrate
-repo_url: https://github.com/KTH-EXPECA/kth-expeca.github.io
-repo_name: KTH-EXPECA/kth-expeca.github.io
 copyright: Copyright &copy; 2023 - EXPECA Project Group at KTH Royal Institute of Technology
 markdown_extensions:
   - def_list
