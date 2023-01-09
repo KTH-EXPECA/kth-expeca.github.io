@@ -1,4 +1,7 @@
 nav:
-  - index.md
-  - Ainur Automation Framework: /Ainur
-  - ...
+  - Home: index.md
+  - Getting started: start.md
+  - User guide: manual.md
+  - Hardware discovery: inventory.md
+  - Blog: blog.md
+  - About: about.md
