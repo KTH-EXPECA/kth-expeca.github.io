@@ -7,8 +7,7 @@ hide:
 
 [Access the Testbed](https://testbed.expeca.proj.kth.se){ .md-button }
 
----
-
+# Partners
 
 <style>
 table, td, th {
