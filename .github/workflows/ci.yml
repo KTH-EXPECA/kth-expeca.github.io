@@ -15,9 +15,6 @@ jobs:
         password: ${{ secrets.GHCR_TOKEN }}
     steps:
       - uses: actions/checkout@v2
-      - uses: actions/setup-python@v2
-        with:
-          python-version: 3.11
       - run: pip install mkdocs-material mkdocs-awesome-pages-plugin mkdocs-git-revision-date-localized-plugin mkdocs-meta-descriptions-plugin
       - run: git config --global --add safe.directory "safe.directory /__w/kth-expeca.github.io/kth-expeca.github.io"
       - run: mkdocs gh-deploy --force
