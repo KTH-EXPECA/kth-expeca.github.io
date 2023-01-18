@@ -7,7 +7,12 @@ on:
       - master
 jobs:
   deploy:
-    runs-on: ghcr.io/kth-expeca/mkdocs-material-insiders
+    runs-on: ubuntu-latest
+    container:
+      image: ghcr.io/kth-expeca/mkdocs-material-insiders
+      credentials:
+        username: ${{ github.actor }}
+        password: ${{ secrets.GHCR_TOKEN }}
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-python@v2
