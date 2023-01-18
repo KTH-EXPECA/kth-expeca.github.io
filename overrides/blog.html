@@ -1,0 +1,53 @@
+{% extends "main.html" %}
+
+<!-- Page content -->
+{% block container %}
+  <div class="md-content" data-md-component="content">
+    <div class="md-content__inner">
+
+      <!-- Header -->
+      <header class="md-typeset">
+        {{ page.content }}
+      </header>
+
+      <!-- Posts -->
+      {% for post in posts %}
+        {% include "partials/post.html" %}
+      {% endfor %}
+
+      <!-- Pagination -->
+      {% block pagination %}
+        {% include "partials/pagination.html" %}
+      {% endblock %}
+
+
+    <style>
+    table, td, th {
+        border: none!important;
+        background: rgba(0,0,0,0) !important;
+        text-align: center !important;
+        vertical-align: middle !important;
+    }
+    tr:hover {
+        background: rgba(0,0,0,0) !important;
+    }
+    </style>
+
+<article class="md-content__inner md-typeset">
+    <h1 id="getting-started">Partners<a class="headerlink" href="#partners" title="Permanent link">🔗</a></h1>
+</article>
+
+    <div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
+    <thead>
+    <tr>
+    <th align="center"><img alt="" src="../assets/kth_logo_2.png" style="width:150px; padding-left: 10px;"></th>
+    <th align="center"><img alt="" src="../assets/telenor_logo.png" style="width:150px; padding-left: 40px;"></th>
+    <th align="center"><img alt="" src="../assets/tecosa_logo.jpeg" style="width:150px; padding-left: 40px;"></th>
+    <th align="center"><img alt="" src="../assets/chameleon_logo.png" style="width:200px; padding-left: 40px;"></th>
+    </tr>
+    </thead>
+    </table></div></div>
+
+    </div>
+  </div>
+{% endblock %}

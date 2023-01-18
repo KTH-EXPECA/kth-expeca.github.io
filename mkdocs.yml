@@ -1,5 +1,5 @@
 ---
-site_name: ExPECA
+site_name: ExPECA - An Experimental Platform for Edge Computing Applications
 extra_css:
   - stylesheets/extra.css
 theme: 
@@ -44,10 +44,23 @@ markdown_extensions:
   - toc:
       permalink: 🔗
 plugins:
+  - meta
+  - blog:
+      blog_dir: ./news
+      archive: false
+      categories: false
+      authors_file: .authors.yml
+  - tags
   - search
   - awesome-pages
   - git-revision-date-localized:
       type: timeago
       enable_creation_date: true
       fallback_to_build_date: true
+nav:
+  - Home: news/index.md
+  - Getting started: start.md
+  - User guide: manual.md
+  - Hardware discovery: inventory.md
+  - About: about.md
 ...

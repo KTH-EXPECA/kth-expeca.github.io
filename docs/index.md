@@ -2,10 +2,19 @@
 hide:
   - navigation
 ---
+<div id="hero-container">
+  <div id="hero-text">
+  <br><br>
+  <span>Computation and communication resources in one platform for Edge- and Cloud-computing research.</span><br><br>  
+  <a class="md-button" href="https://testbed.expeca.proj.kth.se" target="_blank">Access the Testbed</a>
+  </div>
+</div>
 
-# An Experimental Platform for Edge Computing Applications (ExPECA)
+<br>
 
-[Access the Testbed](https://testbed.expeca.proj.kth.se){ .md-button }
+# News
+
+
 
 # Partners
 
@@ -22,8 +31,8 @@ tr:hover {
 </style>
 
 
-| ![](./assets/ericsson_logo.png){: style="width:100px"} | ![](./assets/kth_logo_2.png){: style="width:150px"} | ![](./assets/telenor_logo.png){: style="width:150px"} | ![](./assets/tecosa_logo.jpeg){: style="width:150px"} | ![](./assets/chameleon_logo.png){: style="width:200px"}
-| :------------: | :-------------: | :------------------: | :------------: | :------------: |
+| ![](./assets/kth_logo_2.png){: style="width:150px"} | ![](./assets/telenor_logo.png){: style="width:150px"} | ![](./assets/tecosa_logo.jpeg){: style="width:150px"} | ![](./assets/chameleon_logo.png){: style="width:200px"}
+| :-------------: | :------------------: | :------------: | :------------: |
 
 
 
