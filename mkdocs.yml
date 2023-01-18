@@ -46,10 +46,9 @@ markdown_extensions:
 plugins:
   - meta
   - blog:
-      blog_dir: ./news
+      blog_dir: .
       archive: false
       categories: false
-      authors_file: .authors.yml
   - tags
   - search
   - awesome-pages
@@ -58,7 +57,7 @@ plugins:
       enable_creation_date: true
       fallback_to_build_date: true
 nav:
-  - Home: news/index.md
+  - Home: index.md
   - Getting started: start.md
   - User guide: manual.md
   - Hardware discovery: inventory.md
