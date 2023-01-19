@@ -22,6 +22,10 @@ def main():
     writer = ptw.MarkdownTableWriter()
 
     with open(outfname, "w") as f:
+        f.write("# Hardware discovery\n")
+        f.write("\n")
+        f.write("*{{ git_revision_date_localized }}*\n")
+        f.write("\n")
         writer.stream = f
         for table_data in loader.load():
             writer.from_tabledata(table_data, is_overwrite_table_name = True)
