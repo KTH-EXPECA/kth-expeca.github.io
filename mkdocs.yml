@@ -1,5 +1,5 @@
 ---
-site_name: ExPECA - An Experimental Platform for Edge Computing Applications
+site_name: ExPECA
 extra_css:
   - stylesheets/extra.css
 theme: 
@@ -59,7 +59,6 @@ plugins:
 nav:
   - Home: index.md
   - Getting started: start.md
-  - User guide: manual.md
   - Hardware discovery: inventory.md
   - About: about.md
 ...

@@ -1,6 +1,5 @@
 nav:
   - Home: index.md
   - Getting started: start.md
-  - User guide: manual.md
   - Hardware discovery: inventory.md
   - About: about.md

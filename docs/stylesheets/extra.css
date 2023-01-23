@@ -48,8 +48,8 @@ button {
     border-radius: 2px;
     font-size: 14px;
     cursor: pointer;
-    margin-left: 25px;
-    margin-right: 25px;
+    margin-left: 20px;
+    margin-right: 0px;
     -webkit-transition: all 0.3s; /* add this line, chrome, safari, etc */
     -moz-transition: all 0.3s; /* add this line, firefox */
     -o-transition: all 0.3s; /* add this line, opera */
