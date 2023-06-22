@@ -60,5 +60,6 @@ nav:
   - Home: index.md
   - Getting started: start.md
   - Hardware discovery: inventory.md
+  - Testbed Map: map.md
   - About: about.md
 ...
