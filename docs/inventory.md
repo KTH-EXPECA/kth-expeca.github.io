@@ -11,7 +11,6 @@
 |-------------------|----------|------------------|
 |Ericsson Private 5G|Radio Dots|4                 |
 
-### NI Mgmt
 |INTERFACE|IP             |INTERFACE SPEED|INTERFACE MTU|SEGMENT ID|
 |---------|---------------|---------------|-------------|----------|
 |NI Mgmt  |10.30.111.20/16|10Gbps         |9000         |100       |
@@ -25,7 +24,6 @@
 |------|---------|--------|-------|---------------|-----------------------|------------|
 |sdr-01|USRP E320|?       |3238B97|ni-e320-3238B97|UHD_4.3.0.0-0-g1f8fd345|2.0.1       |
 
-### NI Mgmt
 |INTERFACE|INTERFACE NAME|IP          |INTERFACE SPEED|INTERFACE MTU|SEGMENT ID|
 |---------|--------------|------------|---------------|-------------|----------|
 |NI SFP   |sfp0          |10.30.1.2/24|10Gbps         |9000         |101       |
@@ -39,7 +37,6 @@
 |------|---------|--------|-------|---------------|-----------------------|------------|
 |sdr-02|USRP E320|?       |3238BB0|ni-e320-3238BB0|UHD_4.3.0.0-0-g1f8fd345|2.0.1       |
 
-### NI Mgmt
 |INTERFACE|INTERFACE NAME|IP          |INTERFACE SPEED|INTERFACE MTU|SEGMENT ID|
 |---------|--------------|------------|---------------|-------------|----------|
 |NI SFP   |sfp0          |10.30.1.4/24|10Gbps         |9000         |102       |
@@ -53,7 +50,6 @@
 |------|---------|--------|-------|---------------|-----------------------|------------|
 |sdr-03|USRP E320|?       |3238B90|ni-e320-3238B90|UHD_4.3.0.0-0-g1f8fd345|2.0.1       |
 
-### NI Mgmt
 |INTERFACE|INTERFACE NAME|IP          |INTERFACE SPEED|INTERFACE MTU|SEGMENT ID|
 |---------|--------------|------------|---------------|-------------|----------|
 |NI SFP   |sfp0          |10.30.1.6/24|10Gbps         |9000         |103       |
@@ -67,7 +63,6 @@
 |------|---------|--------|-------|---------------|-----------------------|------------|
 |sdr-04|USRP E320|?       |3238B9D|ni-e320-3238B9D|UHD_4.3.0.0-0-g1f8fd345|2.0.1       |
 
-### NI Mgmt
 |INTERFACE|INTERFACE NAME|IP          |INTERFACE SPEED|INTERFACE MTU|SEGMENT ID|
 |---------|--------------|------------|---------------|-------------|----------|
 |NI SFP   |sfp0          |10.30.1.8/24|10Gbps         |9000         |104       |
@@ -81,7 +76,6 @@
 |------|---------|--------|-------|---------------|-----------------------|------------|
 |sdr-05|USRP E320|?       |3238B9B|ni-e320-3238B9B|UHD_4.3.0.0-0-g1f8fd345|2.0.1       |
 
-### NI Mgmt
 |INTERFACE|INTERFACE NAME|IP           |INTERFACE SPEED|INTERFACE MTU|SEGMENT ID|
 |---------|--------------|-------------|---------------|-------------|----------|
 |NI SFP   |sfp0          |10.30.1.10/24|10Gbps         |9000         |105       |
@@ -95,7 +89,6 @@
 |------|---------|--------|-------|---------------|-----------------------|------------|
 |sdr-06|USRP E320|?       |3238B94|ni-e320-3238B94|UHD_4.3.0.0-0-g1f8fd345|2.0.1       |
 
-### NI Mgmt
 |INTERFACE|INTERFACE NAME|IP           |INTERFACE SPEED|INTERFACE MTU|SEGMENT ID|
 |---------|--------------|-------------|---------------|-------------|----------|
 |NI SFP   |sfp0          |10.30.1.12/24|10Gbps         |9000         |106       |
@@ -109,7 +102,6 @@
 |------|---------|--------|-------|---------------|-----------------------|------------|
 |sdr-07|USRP E320|?       |3238B9F|ni-e320-3238B9F|UHD_4.3.0.0-0-g1f8fd345|2.0.1       |
 
-### NI Mgmt
 |INTERFACE|INTERFACE NAME|IP           |INTERFACE SPEED|INTERFACE MTU|SEGMENT ID|
 |---------|--------------|-------------|---------------|-------------|----------|
 |NI SFP   |sfp0          |10.30.1.14/24|10Gbps         |9000         |107       |
@@ -123,7 +115,6 @@
 |------|---------|--------|-------|---------------|-----------------------|------------|
 |sdr-08|USRP E320|?       |3238BA5|ni-e320-3238BA5|UHD_4.3.0.0-0-g1f8fd345|2.0.1       |
 
-### NI Mgmt
 |INTERFACE|INTERFACE NAME|IP           |INTERFACE SPEED|INTERFACE MTU|SEGMENT ID|
 |---------|--------------|-------------|---------------|-------------|----------|
 |NI SFP   |sfp0          |10.30.1.16/24|10Gbps         |9000         |108       |
@@ -137,7 +128,6 @@
 |------|---------|--------|-------|---------------|-----------------------|------------|
 |sdr-09|USRP E320|?       |3238B8C|ni-e320-3238B8C|UHD_4.3.0.0-0-g1f8fd345|2.0.1       |
 
-### NI Mgmt
 |INTERFACE|INTERFACE NAME|IP           |INTERFACE SPEED|INTERFACE MTU|SEGMENT ID|
 |---------|--------------|-------------|---------------|-------------|----------|
 |NI SFP   |sfp0          |10.30.1.18/24|10Gbps         |9000         |109       |
@@ -151,7 +141,6 @@
 |------|---------|--------|-------|---------------|-----------------------|------------|
 |sdr-10|USRP E320|?       |3238B92|ni-e320-3238B92|UHD_4.3.0.0-0-g1f8fd345|2.0.1       |
 
-### NI Mgmt
 |INTERFACE|INTERFACE NAME|IP           |INTERFACE SPEED|INTERFACE MTU|SEGMENT ID|
 |---------|--------------|-------------|---------------|-------------|----------|
 |NI SFP   |sfp0          |10.30.1.20/24|10Gbps         |9000         |110       |
@@ -165,7 +154,6 @@
 |------------|------------------|--------|----------|-------------|
 |advantech-01|ICR-4453 5G Router|?       |EXPECA-000|172.16.0.8   |
 
-### MGMT
 |INTERFACE|INTERFACE NAME|IP          |INTERFACE SPEED|INTERFACE MTU|SEGMENT ID|TYPE|
 |---------|--------------|------------|---------------|-------------|----------|----|
 |SFP      |eth2          |10.42.3.1/24|10Gbps         |9000         |131       |sfp |
@@ -178,7 +166,6 @@
 |------------|------------------|--------|----------|-------------|
 |advantech-02|ICR-4453 5G Router|?       |EXPECA-005|172.16.0.88  |
 
-### MGMT
 |INTERFACE|INTERFACE NAME|IP          |INTERFACE SPEED|INTERFACE MTU|SEGMENT ID|TYPE|
 |---------|--------------|------------|---------------|-------------|----------|----|
 |SFP      |eth2          |10.42.3.2/24|10Gbps         |9000         |132       |sfp |
@@ -191,7 +178,6 @@
 |------------|------------------|--------|----------|-------------|
 |advantech-03|ICR-4453 5G Router|?       |EXPECA-011|172.16.0.40  |
 
-### MGMT
 |INTERFACE|INTERFACE NAME|IP          |INTERFACE SPEED|INTERFACE MTU|SEGMENT ID|TYPE|
 |---------|--------------|------------|---------------|-------------|----------|----|
 |SFP      |eth2          |10.42.3.3/24|10Gbps         |9000         |133       |sfp |
@@ -204,7 +190,6 @@
 |------------|------------------|--------|----------|-------------|
 |advantech-04|ICR-4453 5G Router|?       |EXPECA-006|172.16.0.96  |
 
-### MGMT
 |INTERFACE|INTERFACE NAME|IP          |INTERFACE SPEED|INTERFACE MTU|SEGMENT ID|TYPE|
 |---------|--------------|------------|---------------|-------------|----------|----|
 |SFP      |eth2          |10.42.3.4/24|10Gbps         |9000         |134       |sfp |
@@ -217,7 +202,6 @@
 |------------|------------------|--------|----------|-------------|
 |advantech-05|ICR-4453 5G Router|?       |EXPECA-002|172.16.0.64  |
 
-### MGMT
 |INTERFACE|INTERFACE NAME|IP          |INTERFACE SPEED|INTERFACE MTU|SEGMENT ID|TYPE|
 |---------|--------------|------------|---------------|-------------|----------|----|
 |SFP      |eth2          |10.42.3.5/24|10Gbps         |9000         |135       |sfp |
@@ -230,7 +214,6 @@
 |------------|------------------|--------|----------|-------------|
 |advantech-06|ICR-4453 5G Router|?       |EXPECA-003|172.16.0.72  |
 
-### MGMT
 |INTERFACE|INTERFACE NAME|IP          |INTERFACE SPEED|INTERFACE MTU|SEGMENT ID|TYPE|
 |---------|--------------|------------|---------------|-------------|----------|----|
 |SFP      |eth2          |10.42.3.6/24|10Gbps         |9000         |136       |sfp |
@@ -243,7 +226,6 @@
 |------------|------------------|--------|----------|-------------|
 |advantech-07|ICR-4453 5G Router|?       |EXPECA-007|172.16.0.104 |
 
-### MGMT
 |INTERFACE|INTERFACE NAME|IP          |INTERFACE SPEED|INTERFACE MTU|SEGMENT ID|TYPE|
 |---------|--------------|------------|---------------|-------------|----------|----|
 |SFP      |eth2          |10.42.3.7/24|10Gbps         |9000         |137       |sfp |
@@ -256,7 +238,6 @@
 |------------|------------------|--------|----------|-------------|
 |advantech-08|ICR-4453 5G Router|?       |EXPECA-001|172.16.0.56  |
 
-### MGMT
 |INTERFACE|INTERFACE NAME|IP          |INTERFACE SPEED|INTERFACE MTU|SEGMENT ID|TYPE|
 |---------|--------------|------------|---------------|-------------|----------|----|
 |SFP      |eth2          |10.42.3.8/24|10Gbps         |9000         |138       |sfp |
@@ -269,7 +250,6 @@
 |---------|---------------------|-----------------------------------------|-----|-----------------|
 |worker-01|Dell PowerEdge R650xs|Intel(R) Xeon(R) Gold 5318Y CPU @ 2.10GHz|16   |64 GB (2 x 32 GB)|
 
-### NetXtreme BCM5720 2-port Gigabit Ethernet PCIe
 |NIC                                           |INTERFACE NAME|INTERFACE SPEED|INTERFACE MTU|
 |----------------------------------------------|--------------|---------------|-------------|
 |Ethernet Controller 10-Gigabit X540-AT2       |ens1f1        |10Gbps         |9000         |
@@ -286,7 +266,6 @@
 |---------|---------------------|---------------------------------------------|---------|---------|
 |worker-02|Dell PowerEdge R750xs|2x Intel(R) Xeon(R) Silver 4314 CPU @ 2.40GHz|32 (2x16)|128 GB   |
 
-### NetXtreme BCM5720 2-port Gigabit Ethernet PCIe
 |NIC                                               |INTERFACE NAME|INTERFACE SPEED|INTERFACE MTU|
 |--------------------------------------------------|--------------|---------------|-------------|
 |Ethernet Controller 10-Gigabit X540-AT2           |ens1f1        |10Gbps         |9000         |
@@ -305,7 +284,6 @@
 |---------|---------------------|---------------------------------------------|---------|---------|
 |worker-03|Dell PowerEdge R750xs|2x Intel(R) Xeon(R) Silver 4314 CPU @ 2.40GHz|32 (2x16)|128GB    |
 
-### NetXtreme BCM5720 2-port Gigabit Ethernet PCIe
 |NIC                                               |INTERFACE NAME|INTERFACE SPEED|INTERFACE MTU|
 |--------------------------------------------------|--------------|---------------|-------------|
 |Ethernet Controller 10-Gigabit X540-AT2           |ens1f1        |10Gbps         |9000         |
@@ -324,7 +302,6 @@
 |---------|---------------------|---------------------------------------------|---------|---------|
 |worker-04|Dell PowerEdge R750xs|2x Intel(R) Xeon(R) Silver 4314 CPU @ 2.40GHz|32 (2x16)|128GB    |
 
-### NetXtreme BCM5720 2-port Gigabit Ethernet PCIe
 |NIC                                               |INTERFACE NAME|INTERFACE SPEED|INTERFACE MTU|
 |--------------------------------------------------|--------------|---------------|-------------|
 |Ethernet Controller 10-Gigabit X540-AT2           |ens1f1        |10Gbps         |9000         |
@@ -343,7 +320,6 @@
 |---------|-------------------|------------------------------------------|-----|---------|
 |worker-05|Dell PowerEdge R450|Intel(R) Xeon(R) Silver 4310 CPU @ 2.10GHz|12   |32GB     |
 
-### NetXtreme BCM5720 2-port Gigabit Ethernet PCIe
 |NIC                                                    |INTERFACE NAME|INTERFACE SPEED|INTERFACE MTU|
 |-------------------------------------------------------|--------------|---------------|-------------|
 |Ethernet Controller 10-Gigabit X540-AT2                |ens1f1        |10Gbps         |9000         |
@@ -358,7 +334,6 @@
 |---------|-------------------|------------------------------------------|-----|---------|
 |worker-06|Dell PowerEdge R450|Intel(R) Xeon(R) Silver 4310 CPU @ 2.10GHz|12   |32GB     |
 
-### NetXtreme BCM5720 2-port Gigabit Ethernet PCIe
 |NIC                                               |INTERFACE NAME|INTERFACE SPEED|INTERFACE MTU|
 |--------------------------------------------------|--------------|---------------|-------------|
 |Ethernet Controller 10G X550T                     |ens1f1        |10Gbps         |9000         |
@@ -373,7 +348,6 @@
 |---------|-------------------|------------------------------------------|-----|---------|
 |worker-07|Dell PowerEdge R450|Intel(R) Xeon(R) Silver 4310 CPU @ 2.10GHz|12   |16 GB    |
 
-### NetXtreme BCM5720 2-port Gigabit Ethernet PCIe
 |NIC                                           |INTERFACE NAME|INTERFACE SPEED|INTERFACE MTU|
 |----------------------------------------------|--------------|---------------|-------------|
 |I210 Gigabit Network Connection               |ens1          |1Gbit/s        |1500         |
@@ -389,7 +363,6 @@
 |---------|-------------------|------------------------------------------|-----|---------|
 |worker-08|Dell PowerEdge R450|Intel(R) Xeon(R) Silver 4310 CPU @ 2.10GHz|12   |16 GB    |
 
-### NetXtreme BCM5720 2-port Gigabit Ethernet PCIe
 |NIC                                           |INTERFACE NAME|INTERFACE SPEED|INTERFACE MTU|
 |----------------------------------------------|--------------|---------------|-------------|
 |I210 Gigabit Network Connection               |ens1          |1Gbit/s        |1500         |
@@ -404,7 +377,6 @@
 |---------|-------------------|------------------------------------------|-----|---------|
 |worker-09|Dell PowerEdge R450|Intel(R) Xeon(R) Silver 4310 CPU @ 2.10GHz|12   |16 GB    |
 
-### NetXtreme BCM5720 2-port Gigabit Ethernet PCIe
 |NIC                                           |INTERFACE NAME|INTERFACE SPEED|INTERFACE MTU|
 |----------------------------------------------|--------------|---------------|-------------|
 |I210 Gigabit Network Connection               |ens1          |1Gbit/s        |1500         |
@@ -419,7 +391,6 @@
 |---------|-------------------|------------------------------------------|-----|---------|
 |worker-10|Dell PowerEdge R450|Intel(R) Xeon(R) Silver 4310 CPU @ 2.10GHz|12   |16 GB    |
 
-### NetXtreme BCM5720 2-port Gigabit Ethernet PCIe
 |NIC                                           |INTERFACE NAME|INTERFACE SPEED|INTERFACE MTU|
 |----------------------------------------------|--------------|---------------|-------------|
 |I210 Gigabit Network Connection               |ens1          |1Gbit/s        |1500         |
