@@ -50,6 +50,12 @@ This allows us to quickly, on-the-fly, and in an automated fashion change the ch
 
     - <a data-name="nroy" data-domain="kth" data-tld="se" href="#" class="cryptedmail" onclick="window.location.href = 'mailto:' + this.dataset.name + '@' + this.dataset.domain + '.' + this.dataset.tld; return false">:fontawesome-solid-envelope:&nbsp;&nbsp;nroy \[at\] kth.se</a>
 
+???- member "Stefan Rönngren (Research Engineer)"
+
+    - [:fontawesome-solid-id-card:&nbsp;&nbsp;KTH.se profile](https://www.kth.se/profile/steron)
+
+    - <a data-name="steron" data-domain="kth" data-tld="se" href="#" class="cryptedmail" onclick="window.location.href = 'mailto:' + this.dataset.name + '@' + this.dataset.domain + '.' + this.dataset.tld; return false">:fontawesome-solid-envelope:&nbsp;&nbsp;steron \[at\] kth.se</a>
+
 
 ### Former team members
 
