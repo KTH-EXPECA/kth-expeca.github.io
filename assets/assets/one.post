@@ -1,0 +1,12 @@
+# About
+
+However, while it is widely understood that Edge Computing brings much-needed improvements in performance, little is known yet about the detailed characteristics of these systems and their implications for applications.
+Essentially, there is a gap between theoretical work and the achievable performance of edge computing systems in practice, a gap that must be bridged before these systems can become a widespread reality.
+
+Our goal with the ExPECA testbed is to bridge this gap.
+We provide a cluster of hardware-reconfigurable general-purpose computing nodes interconnected using managed switches and Software-Defined Radios.
+This allows us to quickly, on-the-fly, and in an automated fashion change the characteristics of the cluster and the network, in order to study different Edge- and Cloud-computing deployments and the applications that run on them.
+
+![](../assets/expeca_vision_2.png)
+
+[^1]: ExPECA Vision Image courtesy of [jamesgross.org](https://www.jamesgross.org/research/expeca/).
