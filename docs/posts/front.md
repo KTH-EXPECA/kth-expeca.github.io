@@ -12,5 +12,5 @@ of Technology in Stockholm is now open for experimentation by interested parties
 
 Take a look at our user guide for a brief introduction to the testbed and a few
 examples of how a user can interact with it. The "getting started" tab above will guide
-you how to take your first steps towards becoming an ExPECA user.
+you to taking your first steps towards becoming an ExPECA user.
 
