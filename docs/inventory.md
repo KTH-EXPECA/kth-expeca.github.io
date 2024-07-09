@@ -91,7 +91,7 @@
 
 |INTERFACE|INTERFACE NAME|IP           |INTERFACE SPEED|INTERFACE MTU|SEGMENT ID|
 |---------|--------------|-------------|---------------|-------------|----------|
-|NI SFP   |sfp0          |10.30.1.12/24|10Gbps         |9000         |112       |
+|NI SFP   |sfp0          |10.30.10.12/24|10Gbps         |9000         |112       |
 |MANGO    |eth0          |10.30.1.11/24|1Gbps          |1500         |111       |
 
 <br/><br/>
