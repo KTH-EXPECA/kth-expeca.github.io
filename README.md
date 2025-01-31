@@ -1,5 +1,7 @@
 # ExPECA Project Website
 
+Website found at: https://expeca.proj.kth.se/
+
 ## Getting started
 
 Website is built using [mkdocs-material](https://squidfunk.github.io/mkdocs-material/).
