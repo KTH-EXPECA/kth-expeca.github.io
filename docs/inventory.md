@@ -386,6 +386,7 @@
 |I210 Gigabit Network Connection               |ens1          |1Gbit/s        |1500         |
 |NetXtreme BCM5720 2-port Gigabit Ethernet PCIe|eno12409      |1Gbit/s        |1500         |
 |NetXtreme BCM5720 2-port Gigabit Ethernet PCIe|eno12419      |1Gbit/s        |1500         |
+
 <br/><br/>
 <br/><br/>
 
