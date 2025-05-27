@@ -6,6 +6,8 @@
 <br/><br/>
 
 ## SDRs
+
+### sdr-01
 |ID    |MODEL    |LOCATION|SERIAL |NAME           |NI DESIGN              |MANGO DESIGN|
 |------|---------|--------|-------|---------------|-----------------------|------------|
 |sdr-01|USRP E320|?       |3238B97|ni-e320-3238B97|UHD_4.3.0.0-0-g1f8fd345|2.0.1       |
@@ -18,6 +20,7 @@
 <br/><br/>
 <br/><br/>
 
+### sdr-02
 |ID    |MODEL    |LOCATION|SERIAL |NAME           |NI DESIGN              |MANGO DESIGN|
 |------|---------|--------|-------|---------------|-----------------------|------------|
 |sdr-02|USRP E320|?       |3238BB0|ni-e320-3238BB0|UHD_4.3.0.0-0-g1f8fd345|2.0.1       |
@@ -30,6 +33,7 @@
 <br/><br/>
 <br/><br/>
 
+### sdr-03
 |ID    |MODEL    |LOCATION|SERIAL |NAME           |NI DESIGN              |MANGO DESIGN|
 |------|---------|--------|-------|---------------|-----------------------|------------|
 |sdr-03|USRP E320|?       |3238B90|ni-e320-3238B90|UHD_4.3.0.0-0-g1f8fd345|2.0.1       |
@@ -42,6 +46,7 @@
 <br/><br/>
 <br/><br/>
 
+### sdr-04
 |ID    |MODEL    |LOCATION|SERIAL |NAME           |NI DESIGN              |MANGO DESIGN|
 |------|---------|--------|-------|---------------|-----------------------|------------|
 |sdr-04|USRP E320|?       |3238B9D|ni-e320-3238B9D|UHD_4.3.0.0-0-g1f8fd345|2.0.1       |
@@ -54,6 +59,7 @@
 <br/><br/>
 <br/><br/>
 
+### sdr-05
 |ID    |MODEL    |LOCATION|SERIAL |NAME           |NI DESIGN              |MANGO DESIGN|
 |------|---------|--------|-------|---------------|-----------------------|------------|
 |sdr-05|USRP E320|?       |3238B9B|ni-e320-3238B9B|UHD_4.3.0.0-0-g1f8fd345|2.0.1       |
@@ -66,6 +72,7 @@
 <br/><br/>
 <br/><br/>
 
+### sdr-06
 |ID    |MODEL    |LOCATION|SERIAL |NAME           |NI DESIGN              |MANGO DESIGN|
 |------|---------|--------|-------|---------------|-----------------------|------------|
 |sdr-06|USRP E320|?       |3238B94|ni-e320-3238B94|UHD_4.3.0.0-0-g1f8fd345|2.0.1       |
@@ -78,6 +85,7 @@
 <br/><br/>
 <br/><br/>
 
+### sdr-07
 |ID    |MODEL    |LOCATION|SERIAL |NAME           |NI DESIGN              |MANGO DESIGN|
 |------|---------|--------|-------|---------------|-----------------------|------------|
 |sdr-07|USRP E320|?       |3238B9F|ni-e320-3238B9F|UHD_4.3.0.0-0-g1f8fd345|2.0.1       |
@@ -90,6 +98,7 @@
 <br/><br/>
 <br/><br/>
 
+### sdr-08
 |ID    |MODEL    |LOCATION|SERIAL |NAME           |NI DESIGN              |MANGO DESIGN|
 |------|---------|--------|-------|---------------|-----------------------|------------|
 |sdr-08|USRP E320|?       |3238BA5|ni-e320-3238BA5|UHD_4.3.0.0-0-g1f8fd345|2.0.1       |
@@ -102,6 +111,7 @@
 <br/><br/>
 <br/><br/>
 
+### sdr-09
 |ID    |MODEL    |LOCATION|SERIAL |NAME           |NI DESIGN              |MANGO DESIGN|
 |------|---------|--------|-------|---------------|-----------------------|------------|
 |sdr-09|USRP E320|?       |3238B8C|ni-e320-3238B8C|UHD_4.3.0.0-0-g1f8fd345|2.0.1       |
@@ -114,6 +124,7 @@
 <br/><br/>
 <br/><br/>
 
+### sdr-10
 |ID    |MODEL    |LOCATION|SERIAL |NAME           |NI DESIGN              |MANGO DESIGN|
 |------|---------|--------|-------|---------------|-----------------------|------------|
 |sdr-10|USRP E320|?       |3238B92|ni-e320-3238B92|UHD_4.3.0.0-0-g1f8fd345|2.0.1       |
@@ -126,6 +137,8 @@
 <br/><br/>
 
 ## Adv Routers
+
+### adv-01
 |ID          |MODEL             |LOCATION|SIMCARD1 IMSI  |SIMCARD2 IMSI  |EP5G IP Address|
 |------------|------------------|--------|---------------|---------------|---------------|
 |advantech-01|ICR-4453 5G Router|?       |999080000000001|001010000000006|172.16.0.8     |
@@ -137,6 +150,7 @@
 <br/><br/>
 <br/><br/>
 
+### adv-02
 |ID          |MODEL             |LOCATION|SIMCARD1 IMSI  |SIMCARD2 IMSI  |EP5G IP Address|
 |------------|------------------|--------|---------------|---------------|---------------|
 |advantech-02|ICR-4453 5G Router|?       |999080000000009|001010000000012|172.16.0.88    |
@@ -148,6 +162,7 @@
 <br/><br/>
 <br/><br/>
 
+### adv-03
 |ID          |MODEL             |LOCATION|SIMCARD1 IMSI  |SIMCARD2 IMSI  |EP5G IP Address|
 |------------|------------------|--------|---------------|---------------|---------------|
 |advantech-03|ICR-4453 5G Router|?       |999080000000099|001010000000011|172.16.0.40    |
@@ -159,6 +174,7 @@
 <br/><br/>
 <br/><br/>
 
+### adv-04
 |ID          |MODEL             |LOCATION|SIMCARD1 IMSI  |SIMCARD2 IMSI  |EP5G IP Address|
 |------------|------------------|--------|---------------|---------------|---------------|
 |advantech-04|ICR-4453 5G Router|?       |999080000000010|001010000000010|172.16.0.96    |
@@ -170,6 +186,7 @@
 <br/><br/>
 <br/><br/>
 
+### adv-05
 |ID          |MODEL             |LOCATION|SIMCARD1 IMSI  |SIMCARD2 IMSI  |EP5G IP Address|
 |------------|------------------|--------|---------------|---------------|---------------|
 |advantech-05|ICR-4453 5G Router|?       |999080000000006|001010000000009|172.16.0.64    |
@@ -181,6 +198,7 @@
 <br/><br/>
 <br/><br/>
 
+### adv-06
 |ID          |MODEL             |LOCATION|SIMCARD1 IMSI  |SIMCARD2 IMSI  |EP5G IP Address|
 |------------|------------------|--------|---------------|---------------|---------------|
 |advantech-06|ICR-4453 5G Router|?       |999080000000007|001010000000007|172.16.0.72    |
@@ -192,6 +210,7 @@
 <br/><br/>
 <br/><br/>
 
+### adv-07
 |ID          |MODEL             |LOCATION|SIMCARD1 IMSI  |SIMCARD2 IMSI  |EP5G IP Address|
 |------------|------------------|--------|---------------|---------------|---------------|
 |advantech-07|ICR-4453 5G Router|?       |999080000000011|001010000000008|172.16.0.104   |
@@ -203,6 +222,7 @@
 <br/><br/>
 <br/><br/>
 
+### adv-08
 |ID          |MODEL             |LOCATION|SIMCARD        |SIMCARD2 IMSI  |EP5G IP Address|
 |------------|------------------|--------|---------------|---------------|---------------|
 |advantech-08|ICR-4453 5G Router|?       |999080000000005|001010000000005|172.16.0.56    |
@@ -214,6 +234,8 @@
 <br/><br/>
 
 ## Worker Nodes
+
+### worker-01
 |ID       |MODEL                |CPU MODEL                                |CORES|TOTAL RAM        |
 |---------|---------------------|-----------------------------------------|-----|-----------------|
 |worker-01|Dell PowerEdge R650xs|Intel(R) Xeon(R) Gold 5318Y CPU @ 2.10GHz|16   |64 GB (2 x 32 GB)|
@@ -229,6 +251,7 @@
 <br/><br/>
 <br/><br/>
 
+### worker-02
 |ID       |MODEL                |CPU MODEL                                    |CORES    |TOTAL RAM|
 |---------|---------------------|---------------------------------------------|---------|---------|
 |worker-02|Dell PowerEdge R750xs|2x Intel(R) Xeon(R) Silver 4314 CPU @ 2.40GHz|32 (2x16)|128 GB   |
@@ -246,6 +269,7 @@
 <br/><br/>
 <br/><br/>
 
+### worker-03
 |ID       |MODEL                |CPU MODEL                                    |CORES    |TOTAL RAM|
 |---------|---------------------|---------------------------------------------|---------|---------|
 |worker-03|Dell PowerEdge R750xs|2x Intel(R) Xeon(R) Silver 4314 CPU @ 2.40GHz|32 (2x16)|128GB    |
@@ -263,6 +287,7 @@
 <br/><br/>
 <br/><br/>
 
+### worker-04
 |ID       |MODEL                |CPU MODEL                                    |CORES    |TOTAL RAM|
 |---------|---------------------|---------------------------------------------|---------|---------|
 |worker-04|Dell PowerEdge R750xs|2x Intel(R) Xeon(R) Silver 4314 CPU @ 2.40GHz|32 (2x16)|128GB    |
@@ -280,6 +305,7 @@
 <br/><br/>
 <br/><br/>
 
+### worker-05
 |ID       |MODEL              |CPU MODEL                                 |CORES|TOTAL RAM|
 |---------|-------------------|------------------------------------------|-----|---------|
 |worker-05|Dell PowerEdge R450|Intel(R) Xeon(R) Silver 4310 CPU @ 2.10GHz|12   |32GB     |
@@ -293,6 +319,7 @@
 <br/><br/>
 <br/><br/>
 
+### worker-06
 |ID       |MODEL              |CPU MODEL                                 |CORES|TOTAL RAM|
 |---------|-------------------|------------------------------------------|-----|---------|
 |worker-06|Dell PowerEdge R450|Intel(R) Xeon(R) Silver 4310 CPU @ 2.10GHz|12   |32GB     |
@@ -306,6 +333,7 @@
 <br/><br/>
 <br/><br/>
 
+### worker-07
 |ID       |MODEL              |CPU MODEL                                 |CORES|TOTAL RAM|
 |---------|-------------------|------------------------------------------|-----|---------|
 |worker-07|Dell PowerEdge R450|Intel(R) Xeon(R) Silver 4310 CPU @ 2.10GHz|12   |16 GB    |
@@ -320,6 +348,7 @@
 <br/><br/>
 <br/><br/>
 
+### worker-08
 |ID       |MODEL              |CPU MODEL                                 |CORES|TOTAL RAM|
 |---------|-------------------|------------------------------------------|-----|---------|
 |worker-08|Dell PowerEdge R450|Intel(R) Xeon(R) Silver 4310 CPU @ 2.10GHz|12   |16 GB    |
@@ -333,6 +362,7 @@
 <br/><br/>
 <br/><br/>
 
+### worker-09
 |ID       |MODEL              |CPU MODEL                                 |CORES|TOTAL RAM|
 |---------|-------------------|------------------------------------------|-----|---------|
 |worker-09|Dell PowerEdge R450|Intel(R) Xeon(R) Silver 4310 CPU @ 2.10GHz|12   |16 GB    |
@@ -346,6 +376,7 @@
 <br/><br/>
 <br/><br/>
 
+### worker-10
 |ID       |MODEL              |CPU MODEL                                 |CORES|TOTAL RAM|
 |---------|-------------------|------------------------------------------|-----|---------|
 |worker-10|Dell PowerEdge R450|Intel(R) Xeon(R) Silver 4310 CPU @ 2.10GHz|12   |16 GB    |
@@ -355,10 +386,10 @@
 |I210 Gigabit Network Connection               |ens1          |1Gbit/s        |1500         |
 |NetXtreme BCM5720 2-port Gigabit Ethernet PCIe|eno12409      |1Gbit/s        |1500         |
 |NetXtreme BCM5720 2-port Gigabit Ethernet PCIe|eno12419      |1Gbit/s        |1500         |
-
 <br/><br/>
 <br/><br/>
 
+### worker-21
 |ID       |MODEL         |CPU MODEL                 |CORES|TOTAL RAM|
 |---------|--------------|--------------------------|-----|---------|
 |worker-21|Raspberry Pi 4|Broadcom BCM2711 @ 1.5 GHz|4    |8 GB     |
@@ -366,3 +397,4 @@
 |NIC                                              |INTERFACE NAME|INTERFACE SPEED|INTERFACE MTU|
 |-------------------------------------------------|--------------|---------------|-------------|
 |Broadcom GENET (BCM54213) 1-port Gigabit Ethernet|eth0          |1Gbit/s        |1500         |
+
