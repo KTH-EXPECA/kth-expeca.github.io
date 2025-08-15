@@ -395,7 +395,10 @@
 |---------|--------------|--------------------------|-----|---------|
 |worker-21|Raspberry Pi 4|Broadcom BCM2711 @ 1.5 GHz|4    |8 GB     |
 
-|NIC                                              |INTERFACE NAME|INTERFACE SPEED|INTERFACE MTU|
-|-------------------------------------------------|--------------|---------------|-------------|
-|Broadcom GENET (BCM54213) 1-port Gigabit Ethernet|eth0          |1Gbit/s        |1500         |
+|NIC                                               |INTERFACE NAME |INTERFACE SPEED|INTERFACE MTU|
+|--------------------------------------------------|---------------|---------------|-------------|
+|ASIX AX88179 (StarTech USB32000SPT) 1-port Gigabit|enx000acd47c9fc|1Gbit/s        |1500         |
+|ASIX AX88179 (StarTech USB32000SPT) 1-port Gigabit|enx000acd47cdaf|1Gbit/s        |1500         |
+|ASIX AX88179 (StarTech USB32000SPT) 1-port Gigabit|enx000acd47cdb0|1Gbit/s        |1500         |
+
 
