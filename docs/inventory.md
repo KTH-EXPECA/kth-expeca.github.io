@@ -312,7 +312,6 @@
 
 |NIC                                                    |INTERFACE NAME|INTERFACE SPEED|INTERFACE MTU|
 |-------------------------------------------------------|--------------|---------------|-------------|
-|Ethernet Controller 10-Gigabit X540-AT2                |ens1f1        |10Gbps         |9000         |
 |BCM57414 NetXtreme-E 10Gb/25Gb RDMA Ethernet Controller|eno3np0       |10Gbps         |9000         |
 |BCM57414 NetXtreme-E 10Gb/25Gb RDMA Ethernet Controller|eno4np1       |10Gbps         |9000         |
 
