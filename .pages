@@ -1,0 +1,6 @@
+nav:
+  - Home: index.md
+  - Getting started: start.md
+  - Hardware discovery: inventory.md
+  - Testbed map: map.md
+  - About: about.md
